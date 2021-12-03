@@ -7,12 +7,11 @@ pretty open source libraries or applications.
 Getting Started
 ---------------
 
-- Start by writing a pretty open source library or application, and open source
-  it.
+- Start by writing a pretty library or application. Then open source it.
 
-- Don't write documentation, or be vague, and leave the user confused.
+- Do not write any documentation, or be vague. Leave the users confused.
 
-- Think about the confusion and anger of the users, and celebrate it.
+- Think about the confusion and anger of the users. Celebrate it.
 
 Advanced
 --------
@@ -29,10 +28,10 @@ documentation at all. They are widely used in popular projects.
   install or get start.
 
 - Write extremely detailed documentation, but in ambiguous natural language.
-  Do not provide too many examples, so when users get into trouble, they have to
-  look for answers in a mass of vague descriptions. Even better, when they ask
-  questions in the community, you can blame them for not reading the
-  documentation carefully.
+  Do not provide too many examples in formal language (aka. example code), so
+  when users get into trouble, they have to look up answers in a mass of vague
+  descriptions. Even better, when they ask questions in the community, you can
+  blame them for not reading the documentation carefully.
 
 - Automatically generate documentation from comments and source code. Experts
   can get the information they need from such documents, but not the beginners.
