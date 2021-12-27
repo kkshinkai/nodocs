@@ -2,12 +2,13 @@ No Docs
 =======
 
 No docs is the best way to make others confused and upset after you have written
-pretty open source libraries or applications.
+pretty open source libraries or applications. Real programmers are passionate about
+technology and don't care about writing documentation, which is so coooooooool!
 
 Getting Started
 ---------------
 
-- Start by writing a pretty library or application. Then open source it.
+- Start by writing an attractive library or application. Then open source it.
 
 - Do not write any documentation, or be vague. Leave the users confused.
 
@@ -22,10 +23,20 @@ documentation at all. They are widely used in popular projects.
 - Never give a "Hello, world!" example (aka. minimal working example). So that
   the users cannot figure out whether the software is not installed correctly,
   or whether there is something wrong with their usage.
-
+  
+  - **Example.** If you are writing a "getting started" tutorial for a new
+    programming language you create, do not tell the user what the extension name
+    of the language is. Imagine a user with an empty text editor and no idea what
+    to do, not even being able to create a file with the right extension. That's
+    great, isn't it? Let them waste their time in the search engines.
+    
 - Show attractive example illustrations to users. Increase their desire for this
   library or application. But, be vague in the tutorial, making it difficult to
   install or get start.
+  
+  - **Example.** If your project can be compiled from source, tell users what
+    commands they need to compile, but don't tell them the path to the output
+    executable.
 
 - Write extremely detailed documentation, but in ambiguous natural language.
   Do not provide too many examples in formal language (aka. example code), so
