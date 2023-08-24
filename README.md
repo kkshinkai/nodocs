@@ -1,9 +1,7 @@
 No Docs
 =======
 
-No docs is the best way to make others confused and upset after you have written
-pretty open source libraries or applications. Real programmers are passionate about
-technology and don't care about writing documentation, which is so coooooooool!
+No docs is the ultimate approach to retaining job security and keeping your code as mystical as the ancient scrolls. Let's be real, documentation is just a crutch for those who can't handle the raw, untamed power of reading source code. Why help others when you can leave them to revel in the confusion that your genius inevitably spawns?
 
 Getting Started
 ---------------
@@ -17,22 +15,16 @@ Getting Started
 Advanced
 --------
 
-However, there are some techniques that are more worth learning than not writing
-documentation at all. They are widely used in popular projects.
+However, for the true artist, there are techniques even more effective than merely avoiding documentation. These methods are often employed in some of the most well-regarded projects.
 
-- Never give a "Hello, world!" example (aka. minimal working example). So that
-  the users cannot figure out whether the software is not installed correctly,
-  or whether there is something wrong with their usage.
-  
+- Never offer a "Hello, World!" example (a.k.a. a minimal working example). This ensures users can't determine if their installation is flawed or if they're simply using the software incorrectly.
   - **Example.** If you are writing a "getting started" tutorial for a new
     programming language you create, do not tell the user what the extension name
     of the language is. Imagine a user with an empty text editor and no idea what
     to do, not even being able to create a file with the right extension. That's
     great, isn't it? Let them waste their time in the search engines.
     
-- Show attractive example illustrations to users. Increase their desire for this
-  library or application. But, be vague in the tutorial, making it difficult to
-  install or get start.
+- Tease users with enticing example illustrations. Fuel their desire but keep your tutorial vague enough to impede easy installation or initial use.
   
   - **Example.** If your project can be compiled from source, tell users what
     commands they need to compile, but don't tell them the path to the output
